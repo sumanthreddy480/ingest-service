@@ -1,0 +1,16 @@
+com\iat\epoints\ingest\service\exceptions\CamelRouteNotFoundException.class
+com\iat\epoints\ingest\service\exceptions\JsonParsingFailedException.class
+com\iat\epoints\ingest\service\service\impl\GsuiteServiceImpl.class
+com\iat\epoints\ingest\service\exceptions\ExceptionResponse.class
+com\iat\epoints\ingest\service\aop\LoggingAspect.class
+com\iat\epoints\ingest\service\Application.class
+com\iat\epoints\ingest\service\beans\EmailUpdateTO.class
+com\iat\epoints\ingest\service\routes\IngestRoutes.class
+com\iat\epoints\ingest\service\routes\UserTransformer.class
+com\iat\epoints\ingest\service\exceptions\ExceptionHandlingController.class
+com\iat\epoints\ingest\service\constants\IngestConstants.class
+com\iat\epoints\ingest\service\aop\LogExecutionTime.class
+com\iat\epoints\ingest\service\beans\UserDataTO.class
+com\iat\epoints\ingest\service\beans\DepartmentDataTO.class
+com\iat\epoints\ingest\service\controllers\IngestController.class
+com\iat\epoints\ingest\service\exceptions\ResourceNotFoundException.class

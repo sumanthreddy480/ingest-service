@@ -1,0 +1,28 @@
+{
+  "id": "ravitejaid",
+  "employeeNumber": "253545",
+  "email": "scaleup123@vision.com",
+  "name": "scaleupvision123",
+  "gender": "male",
+  "birthDate": "10-06-1993",
+  "createdAt": 1515069685323,
+  "department": {
+    "id": 1,
+    "name": "Andy Company Test 1 Root"
+  },
+  "role": "ADMIN",
+  "adminRole": "ADMIN",
+  "status": "active",
+  "companyStartDate": "july-10-2017",
+  "active": true,
+  "password": "password",
+  "emailVerified": true,
+  "partnerId": 997,
+  "apiKey": "apikeytesting",
+  "emailChanges": [
+    {
+      "email": "scaleup123@vision.com",
+      "updatedAt": 1515069685323
+    }
+  ]
+}
